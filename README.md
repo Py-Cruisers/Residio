@@ -1,2 +1,23 @@
 # Residio
-This web application enhances the first impression. We solve the pain point of having the same resume as everyone else by supplementing the traditional resume with video.
+
+## Authors
+
+Liesl White  
+
+Dominic Giacona  
+
+Dennis DeVries  
+
+Brentice Loper  
+
+Jamall Malik  
+
+## Project Prep
+
+1. [Team Agreement](project-preps/prep-1.md)
+2. [Prepare Your Projects](project-preps/prep-2)
+3. [Repo & Tooling](project-preps/prep-3)
+4. [User Stories](project-preps/prep-4)
+5. [Software Requirements](project-preps/requirements.md)  
+
+## Graphs/Charts Below
