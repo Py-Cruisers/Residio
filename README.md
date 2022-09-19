@@ -12,6 +12,10 @@ Brentice Loper
 
 Jamall Malik  
 
+## Project Management Tool:
+
+[Trello: Residio](https://trello.com/b/wlGamE96/residio)
+
 ## Project Prep
 
 1. [Team Agreement](project-preps/prep-1.md)
